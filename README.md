@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cyber-preacher
-- 👀 I’m interested in  C#, Java, IPFS, merkle-CRDT
-- 🌱 I’m currently learning golang
-- 💞️ I’m looking to collaborate on Epoch-CRDT
+- 👀 I’m interested in  C#, Java, Golang, Rust
+- 🌱 I’m currently learning Rust
+- 💞️ I’m looking to collaborate on Humanode
 - 📫 How to reach me - keybase

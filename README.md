@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Cyber-preacher
-- 👀 I’m interested in  C#, Java, Golang, Rust
+- 👀 I’m interested in  C#, Java, Golang, Rust, Solidity, JS, TS
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on Humanode
-- 📫 How to reach me - keybase
